@@ -1,0 +1,57 @@
+body{
+    background-image: url('../Img/Wallpaper.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#LoginCard{
+    width: 450px;
+    height: 500px;
+    position: relative;
+    margin: 6% auto;
+    background:  rgb(233, 233, 233);
+    padding: 5px;
+    border-radius: 30px;
+    box-shadow: 0 0 20px 5px rgb(49, 49, 49);
+}
+
+.input-field{
+    height: 40px;
+    width: 270px;
+    font-size: 30px;
+}
+
+/* .button{
+    display: block;
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    font-family: fantasy;
+    color: white;
+    margin-left: 33%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 17px;
+    border: 2px solid #777;
+    border-radius: 10px;
+    background-color: #3b5998;
+    cursor: pointer;
+    transition-duration: 0.2s
+}
+
+.button:hover{
+    display: block;
+    height: 45px;
+    width: 155px;
+    text-align: center;
+    font-family: fantasy;
+    color: black;
+    margin-left: 33%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 17px;
+    border: 2px solid #777;
+    border-radius: 10px;
+    background-color: #3b5998;
+    cursor: pointer;
+} */
